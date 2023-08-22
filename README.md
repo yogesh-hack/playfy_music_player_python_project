@@ -2,6 +2,10 @@
 
 #### Creating a simple music player with playlist management using Python and Streamlit is a great idea! Streamlit is a user-friendly library that allows you to create interactive web applications with minimal code. Here's an outline of how you can achieve this:
 
+## Preview Project
+![output](https://github.com/yogesh-hack/playfy_music_player_python_project/assets/83384315/ce1bc933-984b-4f84-a7eb-0062e4347647)
+
+
 1. **Install Streamlit:**
    Make sure you have Streamlit installed. You can install it using pip:
    ```
